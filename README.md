@@ -36,8 +36,8 @@ When the application runs (or when packaged as EXE), it automatically creates:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/bichiouyahya/Local-Password-Manager.git
+cd Local-Password-Manager
 ```
 
 ### 2. Install required dependencies
